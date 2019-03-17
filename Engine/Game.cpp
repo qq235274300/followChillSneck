@@ -21,6 +21,8 @@
 #include "MainWindow.h"
 #include "Game.h"
 #include "SpriteCodex.h"
+
+//This is a Snek Game
 Game::Game(MainWindow& wnd)
 	:
 	wnd(wnd),
